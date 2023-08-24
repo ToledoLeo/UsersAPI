@@ -1,0 +1,12 @@
+C:\Leo\C#\Projetos .NET\UsersAPI\UsersAPI.Core\bin\Debug\net7.0\UsersAPI.Core.deps.json
+C:\Leo\C#\Projetos .NET\UsersAPI\UsersAPI.Core\bin\Debug\net7.0\UsersAPI.Core.dll
+C:\Leo\C#\Projetos .NET\UsersAPI\UsersAPI.Core\bin\Debug\net7.0\UsersAPI.Core.pdb
+C:\Leo\C#\Projetos .NET\UsersAPI\UsersAPI.Core\obj\Debug\net7.0\UsersAPI.Core.csproj.AssemblyReference.cache
+C:\Leo\C#\Projetos .NET\UsersAPI\UsersAPI.Core\obj\Debug\net7.0\UsersAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leo\C#\Projetos .NET\UsersAPI\UsersAPI.Core\obj\Debug\net7.0\UsersAPI.Core.AssemblyInfoInputs.cache
+C:\Leo\C#\Projetos .NET\UsersAPI\UsersAPI.Core\obj\Debug\net7.0\UsersAPI.Core.AssemblyInfo.cs
+C:\Leo\C#\Projetos .NET\UsersAPI\UsersAPI.Core\obj\Debug\net7.0\UsersAPI.Core.csproj.CoreCompileInputs.cache
+C:\Leo\C#\Projetos .NET\UsersAPI\UsersAPI.Core\obj\Debug\net7.0\UsersAPI.Core.dll
+C:\Leo\C#\Projetos .NET\UsersAPI\UsersAPI.Core\obj\Debug\net7.0\refint\UsersAPI.Core.dll
+C:\Leo\C#\Projetos .NET\UsersAPI\UsersAPI.Core\obj\Debug\net7.0\UsersAPI.Core.pdb
+C:\Leo\C#\Projetos .NET\UsersAPI\UsersAPI.Core\obj\Debug\net7.0\ref\UsersAPI.Core.dll

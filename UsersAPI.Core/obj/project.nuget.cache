@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WNhrXGN0Jg9wAOAK3alKUXFi4K0J/sHYUliIktTaOobytHclmCtq3fZlkMYxqpycI5tO+W7FvYyZz13ethpn6A==",
+  "success": true,
+  "projectFilePath": "C:\\Leo\\C#\\Projetos .NET\\UsersAPI\\UsersAPI.Core\\UsersAPI.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

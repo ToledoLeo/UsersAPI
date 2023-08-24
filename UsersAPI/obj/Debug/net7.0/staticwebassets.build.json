@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mudmA72iUfnYwy0ct1ViKvyk1bhPKU1mtmqV5koE74I=",
+  "Source": "UsersAPI.WebAPI",
+  "BasePath": "_content/UsersAPI.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
